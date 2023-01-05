@@ -16,6 +16,7 @@ const User = new mongoose.Schema({
   password: {
     type: String,
     required: true,
+    // select: false //não retorna nas consultas
   },
   createdAt: {
     type: Date,
