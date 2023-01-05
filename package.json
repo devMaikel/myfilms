@@ -1,0 +1,19 @@
+{
+  "name": "myfilms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devMaikel/myfilms.git"
+  },
+  "author": "devMaikel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devMaikel/myfilms/issues"
+  },
+  "homepage": "https://github.com/devMaikel/myfilms#readme"
+}
